@@ -1,0 +1,32 @@
+﻿<Styles xmlns="https://github.com/avaloniaui" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+    <!-- Text block -->
+    <Style Selector="TabControl">
+    </Style>
+    <Style Selector="TextBlock">
+        <Setter Property="FontSize" Value="16"/>
+    </Style>
+    <Style Selector="TextBlock.h1">
+        <Setter Property="FontWeight" Value="Black"/>
+        <Setter Property="FontSize" Value="24"/>
+    </Style>
+    <Style Selector="TextBlock.h2">
+        
+        <Setter Property="FontWeight" Value="ExtraBold"/>
+        <Setter Property="FontSize" Value="21"/>
+    </Style>
+    <Style Selector="TextBlock.boldRubik">
+        <Setter Property="FontWeight" Value="Bold"/>
+    </Style>
+    <Style Selector="TextBlock.light">
+        <Setter Property="Foreground" Value="Black"/>
+    </Style>
+    
+    
+    <Style Selector="Button">
+        
+    </Style>
+    
+    <Style Selector="Button.BiomImageButton">
+        
+    </Style>
+</Styles>
